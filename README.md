@@ -6,7 +6,8 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 ### Email
 - [Proton.me](https://proton.me) - Our transparency, open-source software, and rigorous encryption have earned Proton millions of users around the world — and the recommendation of the United Nations.
 
-### Python
+### Programming
+#### Python
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/) - Based on the book Automate the Boring Stuff with Python and many other sources.
 
 ### Certifications
