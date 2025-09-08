@@ -23,8 +23,11 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 ### Hacking Tools
 - [GitHub - hak5/bashbunny-payloads: The Official Bash Bunny Payload Repository](https://github.com/hak5/bashbunny-payloads) - This repository contains payloads and extensions for the Hak5 Bash Bunny.
 
-### Resource Collections
-- [GitHub - danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) -  SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns,
+### Resource Collections (Not fully checked. Explore at own risk) 
+- [GitHub - danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) -  SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns.
+- [GitHub - trustedsec/physical-docs](https://github.com/trustedsec/physical-docs) -  This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments.
+
+
 
 ## Books
 ### Kevin Mitnik (Author & Topic)
@@ -51,8 +54,7 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 
 
-- [50+ Free Cybersecurity Resources — Dark Cubed](https://darkcubed.com/cybersecurity-resources)
-- [GitHub - trustedsec/physical-docs: This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments.](https://github.com/trustedsec/physical-docs)
+
 - [Hacker Warehouse - Your one stop computer security shop.](https://hackerwarehouse.com/)
 - [BuyVM - KVM Slices Dedicated Server Performance with 100% SSD Storage and DDoS Protection Available](https://buyvm.net/kvm-dedicated-server-slices/)
 - [GTFOBins](https://gtfobins.github.io/)
