@@ -6,6 +6,9 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 ### Email
 - [Proton.me](https://proton.me) - Our transparency, open-source software, and rigorous encryption have earned Proton millions of users around the world — and the recommendation of the United Nations.
 
+### Python
+- [Python Cheatsheet - Python Cheatsheet](https://www.pythoncheatsheet.org/)
+
 
 
 ## Books
@@ -23,10 +26,8 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 # Unsorted
 
-#### CCNA1
-- [NETLAB+](https://netlabs.stanly.edu/resplan.cgi)
-#### CYB112
-- [Python Cheatsheet - Python Cheatsheet](https://www.pythoncheatsheet.org/)
+
+
 
 ### Security
 - [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki)
