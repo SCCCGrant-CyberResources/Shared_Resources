@@ -19,4 +19,4 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 
 ## Movies
-- Hacker (1995) [imdb] (https://www.imdb.com/title/tt0113243/) 
+- Hacker (1995) [IMDB](https://www.imdb.com/title/tt0113243/) 
