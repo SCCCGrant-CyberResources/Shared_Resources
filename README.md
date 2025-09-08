@@ -7,9 +7,23 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 - [Proton.me](https://proton.me) - Our transparency, open-source software, and rigorous encryption have earned Proton millions of users around the world — and the recommendation of the United Nations.
 
 ### Python
-- [Python Cheatsheet - Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/) - Based on the book Automate the Boring Stuff with Python and many other sources.
 
+### Certifications
+- [IAPP](https://iapp.org/) - The policy neutral, not-for-profit professional home for privacy, AI governance and digital responsibility globally.
 
+### Federal Programs
+- [CIS Center for Internet Security](https://www.cisecurity.org/) - As the National Coordinator for Critical Infrastructure Security and Resilience, CISA works with partners at every level to identify and manage risk to the cyber and physical infrastructure that Americans rely on every hour of every day. CISA works with partners to defend against today’s threats and collaborate to build a more secure and resilient infrastructure for the future.
+- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework) - NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life.
+
+### Frameworks
+- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework) - NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life
+
+### Hacking Tools
+- [GitHub - hak5/bashbunny-payloads: The Official Bash Bunny Payload Repository](https://github.com/hak5/bashbunny-payloads) - This repository contains payloads and extensions for the Hak5 Bash Bunny.
+
+### Resource Collections
+- [GitHub - danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) -  SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns,
 
 ## Books
 ### Kevin Mitnik (Author & Topic)
@@ -31,11 +45,11 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 ### Security
 - [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki)
-- [IAPP](https://iapp.org/)
-- [CIS Center for Internet Security](https://www.cisecurity.org/)
-- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
-- [GitHub - hak5/bashbunny-payloads: The Official Bash Bunny Payload Repository](https://github.com/hak5/bashbunny-payloads)
-- [GitHub - danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, f](https://github.com/danielmiessler/SecLists)
+
+
+
+
+
 - [50+ Free Cybersecurity Resources — Dark Cubed](https://darkcubed.com/cybersecurity-resources)
 - [GitHub - trustedsec/physical-docs: This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments.](https://github.com/trustedsec/physical-docs)
 - [Hacker Warehouse - Your one stop computer security shop.](https://hackerwarehouse.com/)
