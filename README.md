@@ -30,6 +30,16 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 ### Online Stores
 - [Hacker Warehouse](https://hackerwarehouse.com/) - Your one stop computer security shop.
 - [BuyVM](https://buyvm.net/kvm-dedicated-server-slices/) - KVM Slices Dedicated Server Performance with 100% SSD Storage and DDoS Protection Available
+- [Hooligan Keys](https://www.hooligankeys.com/)  - Unlock Your World!
+### Online Classes
+- [Hack The Box](https://www.hackthebox.com/hacker) - Hacking Training For The Best | Individuals &amp; Companies
+- [Teach Yourself Infosec](https://teachyourselfinfosec.com/) - This guide intends to provide a basic (and generally, free) set of resources for getting started with learning computer security.
+- [GitHub - brootware/Cyber-Security-University](https://github.com/brootware/Cyber-Security-University) - Because Education should be free
+### Physical Security
+#### Lockpicking
+- [Lock Picking 101](http://www.lockpicking101.com/) - Forum for Lock Picking, Locks, Safes, Picks and Locksmiths
+- [The Open Organisation Of Lockpickers](http://toool.us/) - The Open Organisation Of Lockpickers, or TOOOL, is an international group of lockpicking enthusiasts dedicated to advancing the general public knowledge about locks and lockpicking through teaching, research, and competition.
+- [Deviant’s Devious Keyring](https://www.hooligankeys.com/shop/Deviant%E2%80%99s-Devious-Keyring-p259024002)
 
 ## Books
 ### Kevin Mitnik (Author & Topic)
@@ -68,12 +78,12 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 - [TurnKey GNU/Linux | 100+ free ready-to-use system images for virtual machines, the cloud and bare metal](https://www.turnkeylinux.org/)
 - [Experience Our Open Source Security Tools | TrustedSec](https://www.trustedsec.com/tools/)
 - [Crowd Supply - For the Greater Goods](https://www.crowdsupply.com/)
-- [GitHub - brootware/Cyber-Security-University: Because Education should be free](https://github.com/brootware/Cyber-Security-University)
+
 - [Servers for Hackers](https://serversforhackers.com/)
 - [Tools from EFF's Tech Team | Electronic Frontier Foundation](https://www.eff.org/pages/tools)
-- [Hooligan Keys - Unlock Your World!](https://www.hooligankeys.com/)
-- [Hack The Box: Hacking Training For The Best | Individuals &amp; Companies](https://www.hackthebox.com/hacker)
-- [Teach Yourself Infosec](https://teachyourselfinfosec.com/)
+
+
+
 - [Challenges &amp; CTFs - AboutDFIR - The Definitive Compendium Project](https://aboutdfir.com/education/challenges-ctfs/)
 - [[WeChall] Participating Challenge Sites](https://www.wechall.net/active_sites)
 - [CLARK | Browse Learning Objects](https://clark.center/browse)
@@ -98,10 +108,7 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 - [microsoft/MSLab: Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts](https://github.com/microsoft/MSLab?tab=readme-ov-file)
 - [O.MG](http://192.168.4.1/omg.html.gz#)
 - [LevelBlue - Open Threat Exchange](https://otx.alienvault.com/)
-#### Lockpicking
-- [Lock Picking 101 • Forum for Lock Picking, Locks, Safes, Picks and Locksmiths](http://www.lockpicking101.com/)
-- [The Open Organisation Of Lockpickers :: Equipment](http://toool.us/equipment.html)
-- [Deviant’s Devious Keyring](https://www.hooligankeys.com/shop/Deviant%E2%80%99s-Devious-Keyring-p259024002)
+
 #### Rubber Ducky
 - [Payloads · hak5darren/USB-Rubber-Ducky Wiki · GitHub](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)
 - [Duck ToolKit - Payload Generator](https://ducktoolkit.com/payload/?os_type=windows)
