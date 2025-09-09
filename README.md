@@ -26,8 +26,10 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 ### Resource Collections (Not fully checked. Explore at own risk) 
 - [GitHub - danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) -  SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns.
 - [GitHub - trustedsec/physical-docs](https://github.com/trustedsec/physical-docs) -  This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments.
-
-
+- [Google Code Archive](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki) - pentest-bookmarks - BookmarksList.wiki
+### Online Stores
+- [Hacker Warehouse](https://hackerwarehouse.com/) - Your one stop computer security shop.
+- [BuyVM](https://buyvm.net/kvm-dedicated-server-slices/) - KVM Slices Dedicated Server Performance with 100% SSD Storage and DDoS Protection Available
 
 ## Books
 ### Kevin Mitnik (Author & Topic)
@@ -48,15 +50,14 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 
 ### Security
-- [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki)
 
 
 
 
 
 
-- [Hacker Warehouse - Your one stop computer security shop.](https://hackerwarehouse.com/)
-- [BuyVM - KVM Slices Dedicated Server Performance with 100% SSD Storage and DDoS Protection Available](https://buyvm.net/kvm-dedicated-server-slices/)
+
+
 - [GTFOBins](https://gtfobins.github.io/)
 - [GitHub - liamg/traitor: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins](https://github.com/liamg/traitor?utm_source=tldrnewsletter)
 - [GitHub - jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
