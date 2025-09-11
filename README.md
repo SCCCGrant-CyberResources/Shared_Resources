@@ -31,10 +31,14 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 - [Hacker Warehouse](https://hackerwarehouse.com/) - Your one stop computer security shop.
 - [BuyVM](https://buyvm.net/kvm-dedicated-server-slices/) - KVM Slices Dedicated Server Performance with 100% SSD Storage and DDoS Protection Available
 - [Hooligan Keys](https://www.hooligankeys.com/)  - Unlock Your World!
-### Online Classes
+### Online Classes/Training
 - [Hack The Box](https://www.hackthebox.com/hacker) - Hacking Training For The Best | Individuals &amp; Companies
 - [Teach Yourself Infosec](https://teachyourselfinfosec.com/) - This guide intends to provide a basic (and generally, free) set of resources for getting started with learning computer security.
 - [GitHub - brootware/Cyber-Security-University](https://github.com/brootware/Cyber-Security-University) - Because Education should be free
+- [VulnHub](https://www.vulnhub.com/) - To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
+- [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios
+
+
 ### Physical Security
 #### Lockpicking
 - [Lock Picking 101](http://www.lockpicking101.com/) - Forum for Lock Picking, Locks, Safes, Picks and Locksmiths
