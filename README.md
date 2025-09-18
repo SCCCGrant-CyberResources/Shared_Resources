@@ -1,8 +1,31 @@
-Certainly! Here’s your **organized bookmark collection** with links and short descriptions, formatted in **Markdown** for GitHub. Each section uses headings and bullet points for clarity and easy navigation.
+# Table of Contents
 
----
-
-# Bookmarks Collection
+1. [Communication & Email](#communication--email)
+2. [Programming & Development](#programming--development)
+   - [Python](#python)
+   - [General Programming](#general-programming)
+3. [Certifications & Professional Organizations](#certifications--professional-organizations)
+4. [Cybersecurity Frameworks & Federal Programs](#cybersecurity-frameworks--federal-programs)
+5. [Security Tools & Resources](#security-tools--resources)
+   - [Hacking & Penetration Testing Tools](#hacking--penetration-testing-tools)
+   - [Social Engineering & OSINT](#social-engineering--osint)
+   - [Resource Collections](#resource-collections)
+   - [Vulnerability & Exploit Resources](#vulnerability--exploit-resources)
+   - [Malware Analysis & Sandboxes](#malware-analysis--sandboxes)
+   - [Passwords & Authentication](#passwords--authentication)
+   - [Network & Privacy Tools](#network--privacy-tools)
+   - [Miscellaneous Tools](#miscellaneous-tools)
+6. [Physical Security](#physical-security)
+   - [Lockpicking](#lockpicking)
+   - [RFID & Hardware Hacking](#rfid--hardware-hacking)
+7. [Online Stores](#online-stores)
+8. [Online Classes & Training](#online-classes--training)
+9. [Conferences & Community](#conferences--community)
+10. [Blogs & News](#blogs--news)
+11. [Books](#books)
+    - [Kevin Mitnick (Author & Topic)](#kevin-mitnick-author--topic)
+12. [Movies](#movies)
+13. [Miscellaneous / Unsorted](#miscellaneous--unsorted)
 
 ## Communication & Email
 
