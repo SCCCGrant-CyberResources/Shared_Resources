@@ -22,11 +22,14 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 ### Hacking Tools
 - [GitHub - hak5/bashbunny-payloads: The Official Bash Bunny Payload Repository](https://github.com/hak5/bashbunny-payloads) - This repository contains payloads and extensions for the Hak5 Bash Bunny.
-
+### Social Engineering Tools
+- [GitHub - trustedsec/social-engineer-toolkit(https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 ### Resource Collections (Not fully checked. Explore at own risk) 
 - [GitHub - danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) -  SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns.
 - [GitHub - trustedsec/physical-docs](https://github.com/trustedsec/physical-docs) -  This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments.
 - [Google Code Archive](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki) - pentest-bookmarks - BookmarksList.wiki
+- [GitHub - jivoi/awesome-osint:(https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT
+    
 ### Online Stores
 - [Hacker Warehouse](https://hackerwarehouse.com/) - Your one stop computer security shop.
 - [BuyVM](https://buyvm.net/kvm-dedicated-server-slices/) - KVM Slices Dedicated Server Performance with 100% SSD Storage and DDoS Protection Available
@@ -76,7 +79,7 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 
 
-- [GitHub - jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
+
 - [MITRE ATT&amp;CK®](https://attack.mitre.org/)
 - [Security Content Automation Protocol (SCAP) – DoD Cyber Exchange](https://public.cyber.mil/stigs/scap/)
 - [Grabify IP Logger &amp; URL Shortener](https://grabify.link/?__cf_chl_jschl_tk__=pmd_e435f6a34f033e040cc19ab1cec017b3b01fd658-1627908477-0-gqNtZGzNAg2jcnBszQiO)
@@ -207,6 +210,6 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 - [Spacehuhn Technologies · GitHub](https://github.com/SpacehuhnTech)
 - [DSTIKE WiFI Duck from Travis Lin on Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-duck/)
 - [GitHub - skickar/DigiTrack: Attacks for $5 or less using Arduino](https://github.com/skickar/DigiTrack)
-- [GitHub - trustedsec/social-engineer-toolkit: The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.](https://github.com/trustedsec/social-engineer-toolkit)
+
 - [OTF | Supporting Internet Freedom Worldwide](https://www.opentech.fund/)
 
