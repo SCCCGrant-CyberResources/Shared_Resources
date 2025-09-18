@@ -37,7 +37,9 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 - [GitHub - brootware/Cyber-Security-University](https://github.com/brootware/Cyber-Security-University) - Because Education should be free
 - [VulnHub](https://www.vulnhub.com/) - To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
 - [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios
-
+### Vulnerability Resources
+- [GTFOBins](https://gtfobins.github.io/) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+- [GitHub - liamg/traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins
 
 ### Physical Security
 #### Lockpicking
@@ -72,8 +74,8 @@ This is a location to place (possibly) useful resources for Cybersecurity.
 
 
 
-- [GTFOBins](https://gtfobins.github.io/)
-- [GitHub - liamg/traitor: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins](https://github.com/liamg/traitor?utm_source=tldrnewsletter)
+
+
 - [GitHub - jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [MITRE ATT&amp;CK®](https://attack.mitre.org/)
 - [Security Content Automation Protocol (SCAP) – DoD Cyber Exchange](https://public.cyber.mil/stigs/scap/)
