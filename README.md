@@ -117,6 +117,8 @@
 - [**NirSoft Utilities**](https://www.nirsoft.net/utils/index.html)  
   Free Windows utilities for system and network analysis.
 
+ - [**HackViser**](https://hackviser.com/tactics/pentesting)
+   Your go-to comprehensive reference guide for conducting thorough penetration testing.
 ### Social Engineering & OSINT
 
 - [**Social-Engineer Toolkit**](https://github.com/trustedsec/social-engineer-toolkit)  
