@@ -156,6 +156,8 @@
 - [**Awesome YARA**](https://github.com/InQuest/awesome-yara)  
   Curated list of YARA rules and tools for malware analysis.
 
+  - [**10 Million Password List**](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/)  
+  Common password list for security testing.
 ### Vulnerability & Exploit Resources
 
 - [**GTFOBins**](https://gtfobins.github.io/)  
@@ -218,9 +220,6 @@
   Forensic utilities for Windows investigations.
 
 ### Passwords & Authentication
-
-- [**10 Million Password List**](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt)  
-  Common password list for security testing.
 
 - [**How Secure Is My Password?**](https://www.security.org/how-secure-is-my-password/)  
   Password strength checker and estimator.
