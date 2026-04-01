@@ -25,7 +25,8 @@
 11. [Books](#books)
     - [Kevin Mitnick (Author & Topic)](#kevin-mitnick-author--topic)
 12. [Movies](#movies)
-13. [Miscellaneous / Unsorted](#miscellaneous--unsorted)
+13. [YouTube Channels] (#youtube-channels)
+14. [Miscellaneous / Unsorted](#miscellaneous--unsorted)
 
 ## Communication & Email
 
@@ -425,4 +426,46 @@
 - [**OODA Loop Cybersecurity Blog**](https://www.oodaloop.com/category/osint/cyber/)  
   News and analysis on cyber threats.
 
-- [**Krebs on Security: Cybersecurity Careers**](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/) 
+- [**Krebs on Security: Cybersecurity Careers**](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+
+## Youtube Channels
+### Cybersecurity
+- [**Black Hat Official Channel**](https://www.youtube.com/@BlackHatOfficialYT)
+Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research. 
+
+- [**Lawrence Systems**](https://www.youtube.com/@LAWRENCESYSTEMS)
+In-depth tutorials, discussions on network engineering, security, and technology solutions.
+
+- [**Live Overflow**](https://www.youtube.com/liveoverflow)
+just a wannabe hacker... making videos about various IT security topics and participating in hacking competitions.
+
+ - [**John Hammond**](https://www.youtube.com/@_JohnHammond/)
+Free Cybersecurity Education and Ethical Hacking.
+
+- [**2600.net**](https://www.youtube.com/@HackerVideo)
+The official video channel of 2600: The Hacker Quarterly
+
+
+### Home Labs
+ - [**TechnoTim**](https://www.youtube.com/@TechnoTim)
+ I make videos that help people do awesome things with technology.
+
+ - [**DB Tech**](https://www.youtube.com/@DBTechYT)
+Welcome to DB Tech! This is the place for anyone curious about self-hosting, home servers, Docker apps, and cool tech gear.
+
+- [**Christian Lempa**](https://www.youtube.com/@christianlempa)
+IT & Tech Nerd | DevOps and Automation FanBoy
+
+
+### Online "Classes"
+ - [**Tech World with Nana**](https://www.youtube.com/@TechWorldwithNana)
+Helping millions of engineers to advance their careers with DevOps & Cloud education 
+
+ - [**Learn Linux TV**](https://www.youtube.com/@LearnLinuxTV)
+Learn Linux TV is your ultimate resource for mastering Linux and open-source technology.
+
+ - [**Tech Tutorial - David McKone**](https://www.youtube.com/c/TechTutorialsDavidMcKone)
+Retired IT pro. Currently aging in real-time. I make videos about IT coz, you know, that's all I know about.
+ 
+- [**IBM Technology**](https://www.youtube.com/ibmtechnology) 
+Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. 
