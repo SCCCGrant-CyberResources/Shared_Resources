@@ -428,8 +428,12 @@
 
 - [**Krebs on Security: Cybersecurity Careers**](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
 
+---
+
 ## Youtube Channels
+
 ### Cybersecurity
+
 - [**Black Hat Official Channel**](https://www.youtube.com/@BlackHatOfficialYT)
 Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research. 
 
@@ -468,4 +472,6 @@ Learn Linux TV is your ultimate resource for mastering Linux and open-source tec
 Retired IT pro. Currently aging in real-time. I make videos about IT coz, you know, that's all I know about.
  
 - [**IBM Technology**](https://www.youtube.com/ibmtechnology) 
-Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. 
+Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech.
+
+---
