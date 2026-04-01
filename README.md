@@ -25,7 +25,7 @@
 11. [Books](#books)
     - [Kevin Mitnick (Author & Topic)](#kevin-mitnick-author--topic)
 12. [Movies](#movies)
-13. [YouTube Channels] (#youtube-channels)
+13. [YouTube Channels](#youtube-channels)
 14. [Miscellaneous / Unsorted](#miscellaneous--unsorted)
 
 ## Communication & Email
