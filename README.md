@@ -460,6 +460,9 @@ Welcome to DB Tech! This is the place for anyone curious about self-hosting, hom
 - [**Christian Lempa**](https://www.youtube.com/@christianlempa)
 IT & Tech Nerd | DevOps and Automation FanBoy
 
+- [**Termix**](https://github.com/termix-ssh/termix)
+Termix is a free, open source, self-hosted platform for managing your servers. It puts SSH terminals, remote desktops (RDP, VNC, Telnet), file transfers, tunnels, Docker, metrics, and automations in one place, on web, desktop, and mobile.
+
 
 ### Online "Classes"
  - [**Tech World with Nana**](https://www.youtube.com/@TechWorldwithNana)
